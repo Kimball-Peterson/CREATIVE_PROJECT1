@@ -1,0 +1,89 @@
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+hr {
+  border-top: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-link {
+  padding-top: auto;
+  padding-bottom: auto;
+  padding-left: auto;
+  padding-right: auto;
+
+}
+a {
+  color: #040404;
+}
+
+.navbar-title {
+  font-family: serif;
+  font-weight: bold;
+}
+
+.img-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 15px;
+  width: 85%;
+  border: 5px solid #040404;
+  align-content: center;
+
+
+}
+
+.porschegt2 {
+   text-indent: 45px;
+}
+
+p {
+  text-indent: 35px;
+}
+
+h2 {
+  font-family: 'Playfair Display', sans-serif;
+  text-indent: 35px;
+  text-align: center;
+}
+
+h3 {
+font-family: 'Playfair Display', serif;
+text-align: center;
+font-size: 25px;
+}
+
+.row2 {
+  text-indent: 25px;
+
+}
+
+.column{
+  width: 50%;
+  font-family: 'Playfair Display', serif;
+  text-align: right;
+}
+
+.column2 {
+  width: 50%;
+  font-family: 'Playfair Display', serif;
+
+}
+
+.img-fluid2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 15px;
+    width: 85%;
+    border: 5px solid #040404;
+    align-content: center;
+}
+
+.footer-link {
+  text-align: center;
+}
