@@ -3,6 +3,10 @@ h1 {
   font-family: 'Playfair Display', serif;
 }
 
+body {
+  text-align: center;
+}
+
 hr {
   border-top: 2px solid black;
   margin-left: auto;
@@ -37,12 +41,11 @@ a {
 
 }
 
-.porschegt2 {
-   text-indent: 45px;
-}
-
 p {
-  text-indent: 35px;
+  padding-left: 75px;
+  padding-right: 87px;
+  text-indent: auto;
+  text-align: center;
 }
 
 h2 {
@@ -63,27 +66,64 @@ font-size: 25px;
 }
 
 .column{
-  width: 50%;
-  font-family: 'Playfair Display', serif;
-  text-align: right;
-}
-
-.column2 {
-  width: 50%;
   font-family: 'Playfair Display', serif;
 
 }
 
 .img-fluid2 {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-top: auto;
     margin-bottom: 15px;
-    width: 85%;
+    width: 100%;
     border: 5px solid #040404;
-    align-content: center;
+    justify-content: center;
+}
+
+.row1photos {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.row3 {
+  justify-content: center;
+}
+.rowfooter {
+  background-color: #D8D5D5;
+}
+
+.porschegt2 {
+  display: flex;
+}
+
+.img-fluidphotos {
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: auto;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+
+
+
 }
 
 .footer-link {
   text-align: center;
+  background-color: #D8D5D5;
+}
+
+
+.column2 {
+  background-color: #D8D5D5;
 }
